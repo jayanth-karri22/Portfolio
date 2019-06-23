@@ -5,7 +5,7 @@ module.exports = {
 
   siteTitle: "Jayanth", // Navigation and Site Title
   siteTitleAlt: "Jayanth", // Alternative Site title for SEO
-  siteTitleShort: "Cara", // short_name for manifest
+  siteTitleShort: "KJ", // short_name for manifest
   siteHeadline: "Creating marvelous art & blazginly fast websites", // Headline for schema.org JSONLD
   siteUrl: "anybodycancode.dev", // Domain of your site. No trailing slash!
   siteLanguage: "en", // Language Tag on <html> element
@@ -14,9 +14,9 @@ module.exports = {
   author: "LekoArts", // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
-  userTwitter: "@cara", // Twitter Username
-  ogSiteName: "cara", // Facebook Site Name
-  ogLanguage: "en_US", // Facebook Language
+  userTwitter: "", // Twitter Username
+  ogSiteName: "", // Facebook Site Name
+  ogLanguage: "", // Facebook Language
 
   // Manifest and Progress color
   themeColor: tailwind.colors.orange,
