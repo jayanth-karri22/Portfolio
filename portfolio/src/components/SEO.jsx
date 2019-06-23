@@ -81,11 +81,7 @@ const Head = props => {
     <Helmet>
       <html lang={config.siteLanguage} />
       <title>{title}</title>
-      <link rel="apple-touch-icon" href="" />
-      <link rel="icon" type="image/png" sizes="32x32" href="" />
-      <link rel="icon" type="image/png" sizes="16x16" href="" />
       <meta name="gatsby-starter" content="Jayanth" />
-      <link rel="shortcut icon" href="" />
       <meta name="msapplication-TileColor" content={config.backgroundColor} />
       <meta name="msapplication-config" content="browserconfig.xml" />
       <meta name="description" content={description} />

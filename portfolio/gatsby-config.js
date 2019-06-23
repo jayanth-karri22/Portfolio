@@ -37,13 +37,13 @@ module.exports = {
         icons: [
           {
             src: "",
-            sizes: "192x192",
-            type: "image/png"
+            sizes: "",
+            type: ""
           },
           {
             src: "",
-            sizes: "512x512",
-            type: "image/png"
+            sizes: "",
+            type: ""
           }
         ]
       }
